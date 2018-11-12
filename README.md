@@ -1,4 +1,4 @@
-# openstack-dashboard-cloudbase-theme
-Cloudbase Solutions theme for **openstack/horizon**
+# openstack-dashboard-infotec-theme
+Infotec Cloud theme for **openstack/horizon**
 
 
